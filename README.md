@@ -10,4 +10,4 @@ GUI application that retrieves movie data based on user's search and loads resul
 
 
 # Requirements
-Obtain API Keys from both YouTube and IMDb
+Obtain API Keys from both [YouTube](https://developers.google.com/youtube/) and [IMDb](https://developer.imdb.com/)
