@@ -7,3 +7,7 @@ GUI application that retrieves movie data based on user's search and loads resul
 
 #### Example Run
 ![Example_Run](Images/app_run.JPG)
+
+
+# Requirements
+Obtain API Keys from both YouTube and IMDb
