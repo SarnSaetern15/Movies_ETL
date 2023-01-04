@@ -5,7 +5,7 @@ GUI application that retrieves movie data based on user's search and loads resul
 ![Diagram](Images/diagram.JPG)
 
 
-#### Example Run
+# Example Run
 ![Example_Run](Images/app_run.JPG)
 
 
