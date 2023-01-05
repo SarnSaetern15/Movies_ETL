@@ -22,3 +22,4 @@ Obtain API Keys from both [YouTube](https://developers.google.com/youtube/) and 
 * PyQt5.QtGui
 * PyQt5.QtWebEngineWidgets
 * sqlite3
+* requests
