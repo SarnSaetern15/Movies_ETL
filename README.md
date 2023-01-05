@@ -10,7 +10,7 @@ GUI application that retrieves movie data based on user's search and loads resul
 
 
 # Releases
-v.01 executable file available for [download](https://github.com/SarnSaetern15/Movies_ETL/releases/tag/v01) - 113,554KB
+v.01 movies_etl executable file (113,554KB) available for [download](https://github.com/SarnSaetern15/Movies_ETL/releases/tag/v01) 
 
 
 # Requirements
