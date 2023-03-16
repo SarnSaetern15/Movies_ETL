@@ -1,5 +1,5 @@
 # Movies_ETL
-GUI application that retrieves movie data based on the user's search, then loads results into a database file. 
+GUI application that retrieves movie data based on the user's search, then loads results into the database file. 
 <br /> Analysis of relationship between IMDb and Rotten Tomato scores conducted using linear regression and hypothesis testing.
 
 
