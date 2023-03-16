@@ -2,7 +2,7 @@
 GUI application that retrieves movie data based on user's search and loads results into the database file. 
 
 
-![Diagram](Images/diagram.JPG)
+![Diagram](Images/block_diagram.JPG)
 
 
 # Example Run
