@@ -23,3 +23,8 @@ Obtain API Keys from both [YouTube](https://developers.google.com/youtube/) and 
 * PyQt5.QtWebEngineWidgets
 * sqlite3
 * requests
+* pandas
+* sklearn.model_selection
+* sklearn.linear_model
+* seaborn
+* statsmodels.formula.api
